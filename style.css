@@ -1,0 +1,11 @@
+.center {
+    text-align: center;
+}
+
+.footer {
+    position: fixed;
+    text-align: center;
+    bottom: -26px;
+    left: 0;
+    right: 0;
+}
