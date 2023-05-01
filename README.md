@@ -1,2 +1,5 @@
-# Walking-Hood-Irony
-Displays the total travelled distance of Walking Hood Irony since year 2023.
+# Walking Hood Irony
+*Displays the total meters travelled distance of Walking Hood Irony since the year 2023.*
+<p align="center">
+<img src="src/hi-gif.gif" alt="Hood Irony">
+</p>
